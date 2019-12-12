@@ -1,0 +1,21 @@
+- name: Software Engineer Keywords
+  keywords:
+      - HTML
+      - CSS
+      - JavaScript
+      - Vue
+
+- name: Mobile Developer Keywords
+  keywords:
+      - Android
+      - webapp
+      - Î¢ÐÅÐ¡³ÌÐò
+
+- name: Windows Developer Keywords
+  keywords:
+      - Win32 SDK
+      - DuiLib
+      - WTL
+      - COM
+      - WinDbg
+
