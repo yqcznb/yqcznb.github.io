@@ -5,7 +5,7 @@ categories: Blog
 description: javaScript 中如何检测一个变量是一个 String 类型？
 keywords: 2020, 学习, js
 ---
-##  **javaScript 中如何检测一个变量是一个 String 类型？** 
+## **javaScript 中如何检测一个变量是一个 String 类型？** 
 
  **答案：三种方法（typeof、constructor、Object.prototype.toString.call()）** 
 
