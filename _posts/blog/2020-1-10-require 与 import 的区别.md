@@ -1,3 +1,10 @@
+---
+layout: post
+title: require 与 import 的区别
+categories: Blog
+description: require 与 import 的区别
+keywords: 2019, js, ES6
+---
 ##  **require 与 import 的区别** 
 
 **第一、两者的加载方式不同**
